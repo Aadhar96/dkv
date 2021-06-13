@@ -1,4 +1,4 @@
-module github.com/Aadhar96/dkv
+module github.com/flipkart-incubator/dkv
 
 go 1.13
 
